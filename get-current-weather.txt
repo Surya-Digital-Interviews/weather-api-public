@@ -1,0 +1,7 @@
+place: Chharjarsi
+temperature: 34
+weather_summary: Mostly cloudy
+minimum_temperature: 28
+maximum_temperature: 35
+air_quality: 65
+air_quality_summary: Satisfactory

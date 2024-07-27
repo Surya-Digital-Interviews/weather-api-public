@@ -1,0 +1,71 @@
+category: sunrise_sunset
+sunrise: 5:36 AM
+sunset: 7:16 PM
+current_time: 12PM
+
+category: air_quality
+name: value
+value: 65
+summary: Satisfactory
+min_value: 0
+max_value: 300
+
+category: other
+name: UV Index
+value: 9
+summary: Strong
+
+category: other
+name: Feels like
+value: 47
+
+category: other
+name: Humidity
+value: 73%
+
+category: other
+name: ESE wind
+value: 3
+unit: mph
+
+category: other
+name: Air Pressure
+value: 997
+unit: hPa
+
+category: other
+name: Visibility
+value: 8
+unit: km
+
+category: lifestyle_tips
+tip: Very low pollen count
+icon: pollen
+
+category: lifestyle_tips
+tip: High UV Index
+icon: umbrella
+
+category: lifestyle_tips
+tip: Use oil-control products
+icon: cylinder
+
+category: lifestyle_tips
+tip: Do not wash your car
+icon: car
+
+category: lifestyle_tips
+tip: Suitable for indoor workouts
+icon: run
+
+category: lifestyle_tips
+tip: Good traffic conditions
+icon: bus
+
+category: lifestyle_tips
+tip: Not suitable for a trip
+icon: plane
+
+category: lifestyle_tips
+tip: Some mosquitoes
+icon: mosquito
